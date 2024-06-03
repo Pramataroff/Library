@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Milenski\\Biblioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65AA3B4-A6A3-485F-A78B-C3033061E769}|Biblioteka\\Biblioteka.csproj|c:\\milenski\\biblioteka\\biblioteka\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65AA3B4-A6A3-485F-A78B-C3033061E769}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65AA3B4-A6A3-485F-A78B-C3033061E769}|Biblioteka\\Biblioteka.csproj|C:\\Milenski\\Biblioteka\\biblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65AA3B4-A6A3-485F-A78B-C3033061E769}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65AA3B4-A6A3-485F-A78B-C3033061E769}|Biblioteka\\Biblioteka.csproj|C:\\Milenski\\Biblioteka\\biblioteka\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65AA3B4-A6A3-485F-A78B-C3033061E769}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Milenski\\Biblioteka\\Biblioteka\\Library.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\Library.cs",
+              "ToolTip": "C:\\Milenski\\Biblioteka\\Biblioteka\\Library.cs",
+              "RelativeToolTip": "Biblioteka\\Library.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:23:09.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Milenski\\Biblioteka\\Biblioteka\\Book.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\Book.cs",
+              "ToolTip": "C:\\Milenski\\Biblioteka\\Biblioteka\\Book.cs",
+              "RelativeToolTip": "Biblioteka\\Book.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:21:01.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Milenski\\Biblioteka\\Biblioteka\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\Program.cs",
+              "ToolTip": "C:\\Milenski\\Biblioteka\\Biblioteka\\Program.cs",
+              "RelativeToolTip": "Biblioteka\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:20:30.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
